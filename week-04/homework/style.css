@@ -1,0 +1,30 @@
+/* This describes how the content should be displayed */
+
+body {
+    color: #242020;
+    background-color: #D5CBBF;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+h1 {
+    color: #2292A4;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+    background: #FCFAFA;
+    padding: 10px;
+    margin: 10px;
+}
+
+h2 {
+    color: #2292A4;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+h3 {
+    background-color: #EEEF90;
+    font-size: 15px;
+}
